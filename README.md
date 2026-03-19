@@ -1,4 +1,4 @@
-# 👋 Hi there! 🌸
+# System.Console.WriteLine("👋 Hi there! 🌸");
 
 <p align="center">
   ʚ Software Developer • Linux • C • C# • Java
