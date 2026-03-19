@@ -1,4 +1,4 @@
-# System.Console.WriteLine("👋 Hi there! 🌸");
+# 👋 Hi there! 🌸
 
 <p align="center">
   ʚ Software Developer • Linux • C • C# • Java
@@ -27,5 +27,6 @@ I am a Back-end Developer who is constantly learning and improving my skills.
 - SQL | SQL Server, MySQL
 - AWS (Cloud Practitioner)
 - APIs
-
+ 
   ---
+System.Console.WriteLine("Hope u Like it");
