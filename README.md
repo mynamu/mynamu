@@ -1,8 +1,7 @@
 # 👋 Hi there! 🌸
-System.Console.WriteLine("Hope u Like it");
 
 <p align="center">
-  ʚ Software Developer • Linux • C • C# • Java
+System.Console.WriteLine(" ʚ Software Developer • Linux • C • C# • Java ");
 </p>
 
 ---
