@@ -1,4 +1,5 @@
 # 👋 Hi there! 🌸
+System.Console.WriteLine("Hope u Like it");
 
 <p align="center">
   ʚ Software Developer • Linux • C • C# • Java
@@ -29,4 +30,3 @@ I am a Back-end Developer who is constantly learning and improving my skills.
 - APIs
  
   ---
-System.Console.WriteLine("Hope u Like it");
