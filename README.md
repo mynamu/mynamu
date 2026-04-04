@@ -38,6 +38,6 @@ I am a Back-end Developer who is constantly learning and improving my skills.
 - HTML & CSS
 
 ## System.Console.WriteLine(" you can find me here: ");
-credly: https://www.credly.com/users/joyce-lyderis/badges#credly
-github: https://github.com/mynamu
-linkedin: www.linkedin.com/in/joyce-lyderis
+- credly: https://www.credly.com/users/joyce-lyderis/badges#credly
+- github: https://github.com/mynamu
+- linkedin: www.linkedin.com/in/joyce-lyderis
