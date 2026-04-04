@@ -1,7 +1,7 @@
 # 👋 Hi there! 🌸
 
 <p align="center">
-System.Console.WriteLine(" ʚ Software Developer • Linux • C • C# • Java ");
+ ʚ Software Developer • Linux • C • C# • Java 
 </p>
 
 ---
@@ -29,3 +29,15 @@ I am a Back-end Developer who is constantly learning and improving my skills.
 - APIs
  
   ---
+
+## 📚 paths I've already explored and continue to study.
+
+- Python
+- Fortnet
+- CCNA
+- HTML & CSS
+
+## System.Console.WriteLine(" you can find me here: ");
+credly: https://www.credly.com/users/joyce-lyderis/badges#credly
+github: https://github.com/mynamu
+linkedin: www.linkedin.com/in/joyce-lyderis
