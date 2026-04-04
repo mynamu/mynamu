@@ -30,12 +30,14 @@ I am a Back-end Developer who is constantly learning and improving my skills.
  
   ---
 
-## 📚 paths I've already explored and continue to study.
+## 📚 Paths I've already explored and continue to study.
 
 - Python
-- Fortnet
+- Fortinet
 - CCNA
 - HTML & CSS
+
+---
 
 ## System.Console.WriteLine(" you can find me here: ");
 - credly: https://www.credly.com/users/joyce-lyderis/badges#credly
