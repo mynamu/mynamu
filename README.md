@@ -23,15 +23,14 @@ I am a Back-end Developer who is constantly learning and improving my skills.
 - Java | Spring Boot  
 - C | SDL 
 - C# | .NET Framework  
-- Linux | Vim, Nano
+- Linux | Vim, Nano, Distros
 - SQL | SQL Server, MySQL
 - AWS (Cloud Practitioner)
-- APIs
- 
   ---
 
 ## 📚 Paths I've already explored and continue to study.
 
+- APIs, SOAP, JDBC
 - Python
 - Fortinet
 - CCNA
