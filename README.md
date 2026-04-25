@@ -19,9 +19,9 @@ I am a Back-end Developer who is constantly learning and improving my skills.
 
 ## 🚀 Technologies & Tools
 
-- Java | Spring Boot  
-- C | SDL 
-- Linux | Vim, Nano, Distros
+- Java |
+- C | 
+- Linux |
 - SQL | SQL Server, MySQL
 - AWS (Cloud Practitioner)
 
@@ -29,11 +29,11 @@ I am a Back-end Developer who is constantly learning and improving my skills.
 
 ## 📚 Paths I've already explored and continue to study.
 
-- APIs, SOAP, JDBC
 - Python
-- Fortinet (Firewall & Hacking Pentest)
+- Fortinet (Firewall)
+- Hacking Pentest
 - CCNA (Networks)
-- HTML & CSS
+- Assembly
 
 ---
 
