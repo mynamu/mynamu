@@ -1,35 +1,22 @@
 # 👋 Hi there! 🌸
 
 <p align="center">
- ʚ Software Developer • Linux • C • Java 
+ ʚ Software Engineer • Linux • C • Java 
 </p>
 
 ---
 
 ## 🎀 About Me
 
-I am a Back-end Developer who is constantly learning and improving my skills.
+I am a Software Engineer who is constantly learning and improving my skills.
 
-### 💻 Languages I work with:
+## Technologies & Tools
 
-- **C** → SDL applications and system-level programming  
-- **Java** → Building APIs and web services with Spring Boot  
-
----
-
-## 🚀 Technologies & Tools
-
-- Java |
-- C | 
-- Linux |
-- SQL | SQL Server, MySQL
+- Java
+- C
+- Linux
+- SQL
 - AWS (Cloud Practitioner)
-
----
-
-## 📚 Paths I've already explored and continue to study.
-
-- Python
 - Fortinet (Firewall)
 - Hacking Pentest
 - CCNA (Networks)
