@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 <p align="center">
- ʚ Software Engineer • Linux • C • Java 
+ ʚ Software Engineer
 </p>
 
 ---
