@@ -1,4 +1,4 @@
-# 👋 Hi there! 🌸
+# 👋 Hi there!
 
 <p align="center">
  ʚ Software Engineer • Linux • C • Java 
@@ -7,24 +7,8 @@
 ---
 
 ## 🎀 About Me
+Learning and improving my skills in Web, Embedded, Cloud and Low-Level Systems. Software, Firmware and Hardware.
 
-I am a Software Engineer who is constantly learning and improving my skills.
-
-## Technologies & Tools
-
-- Java
-- C
-- Linux
-- SQL
-- AWS (Cloud Practitioner)
-- Fortinet (Firewall)
-- Hacking Pentest
-- CCNA (Networks)
-- Assembly
-
----
-
-## System.out.println(" you can find me here: ");
-- credly: https://www.credly.com/users/joyce-lyderis/badges#credly
-- github: https://github.com/mynamu
-- linkedin: www.linkedin.com/in/joyce-lyderis
+## 🌸 Tools
+- Java, C, Assembly, Python;
+- Linux, AWS Cloud.
