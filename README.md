@@ -6,4 +6,5 @@
 
 ## Tools
 - Java, C, Assembly, Python;
-- Linux, AWS Cloud, MySQL.
+- Linux, AWS Cloud, MySQL;
+- Arduino, Rasperry PI, AI.
