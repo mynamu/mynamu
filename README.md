@@ -1,10 +1,9 @@
 <p align="center">
- ʚ Software Engineer
+ ʚ Software Engineering, bit brushing, hardware control and automation, exploration in GNU/LINUX.
 </p>
 
 ---
 
 ## Tools
-- Java, C, Assembly, Python;
-- Linux, AWS Cloud, MySQL;
+- C, C++, Assembly, Python;
 - Arduino, Rasperry PI, AI.
