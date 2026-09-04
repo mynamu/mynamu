@@ -1,9 +1,14 @@
 <p align="center">
- ʚ Software Engineering, bit brushing, hardware control and automation, exploration in GNU/LINUX.
+  <h1>⚙️ Software Engineering</h1>
+Focus on embedded systems, low-level programming, and software engineering.
 </p>
 
 ---
+Dedicated to **kernel, firmware, and bare-metal systems**. Projects involving low-level programming, reverse engineering, bit manipulation, and memory management.
 
-## Tools
-- C, C++, Assembly, Python;
-- Arduino, Rasperry PI, AI.
+- **C** — Systems and bare-metal programming
+- **Assembly** — Optimization and direct hardware control
+- **C++** — Computer graphics
+- **Python** — Automation and scripting
+- **Arduino** — Microcontrollers
+- **Raspberry Pi** — Embedded systems
