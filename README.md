@@ -12,4 +12,5 @@ Dedicated to **kernel, firmware, and bare-metal systems**. Projects involving lo
 - **Python** — Automation and scripting
 - **Arduino** — Microcontrollers
 - **Raspberry Pi** — Embedded systems
-- **Linux** — Kernel
+- **Linux** — Kernel, drivers, syscalls
+- **GNU** — coreutils
