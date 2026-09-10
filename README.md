@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>⚙️ Software Engineering</h1>
+  <h2> Software Engineering</h2>
 Focus on embedded systems, low-level programming, and software engineering.
 </p>
 
