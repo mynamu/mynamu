@@ -10,3 +10,4 @@ Dedicated to **programmable logic, microcontroller, kernel, firmware, and bare-m
 - **ESP32 / Microcontrollers** — Embedded systems, peripherals, bare-metal firmware
 - **Linux** — Kernel, drivers, syscalls
 - **GNU** — Coreutils
+- **Java & Python** — High level and Web Development 
