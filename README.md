@@ -10,10 +10,12 @@
 computer security researcher / red team
 </div>
 
+<br>
+
 I am a computer science enthusiast who enjoys studying and understanding how software works.
 I analyze code and fix flaws that compromise optimization or execution security.
 
-II am a student of computer security and offensive security research. My goal is to understand where and how systems fail, in parts like the web application, kernel and firmware:
+I am a student of computer security and offensive security research. My goal is to understand where and how systems fail, in parts like the web application, kernel and firmware:
 
 My base is low level: reverse engineering of binaries and operating systems, malware analysis and firmware study. Knowing the inner workings of the kernel (Linux and Windows NT), syscalls, permissions and tokens model and the TCP/IP stack allows me to understand why a technique works, and not just how to execute it.
 
