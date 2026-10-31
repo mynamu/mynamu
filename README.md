@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>Salut! I'm Joyce ૮₍˶ᵔ ᵕ ᵔ˶₎ა </strong>
+  <strong>Salut! je suis Joyce ૮₍˶ᵔ ᵕ ᵔ˶₎ა </strong>
 </div>
 
 ---
