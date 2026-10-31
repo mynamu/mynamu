@@ -6,7 +6,9 @@
 
 ![Descrição da imagem](./assets/mv.jpg)
 
+<div align="center">
 computer security researcher / red team
+</div>
 
 I am a computer science enthusiast who enjoys studying and understanding how software works.
 I analyze code and fix flaws that compromise optimization or execution security.
