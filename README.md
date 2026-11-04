@@ -8,10 +8,10 @@
   <table>
     <tr>
       <td>
-        <img src="./assets/ic.jpg" width="350">
+        <img src="./assets/icon1.jpg" width="350">
       </td>
       <td>
-        <img src="./assets/bocchi.jpg" width="350">
+        <img src="./assets/icon2.jpg" width="350">
       </td>
     </tr>
   </table>
