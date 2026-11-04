@@ -4,7 +4,22 @@
 
 ---
 
-![Descrição da imagem](./assets/mv.jpg)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="./assets/mv.jpg" width="350">
+      </td>
+      <td>
+        <img src="./cfb0876af464942a70bfed236be5bbe4.jpg" width="350">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3>Computer security researcher / red team</h3>
+
+
 
 <div align="center">
 computer security researcher / red team
