@@ -11,7 +11,7 @@
         <img src="./assets/mv.jpg" width="350">
       </td>
       <td>
-        <img src="./assets/cfb0876af464942a70bfed236be5bbe4.jpg" width="350">
+        <img src="./assets/icon.jpg" width="350">
       </td>
     </tr>
   </table>
