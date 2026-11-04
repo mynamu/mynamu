@@ -17,12 +17,8 @@
   </table>
 </div>
 
-<h3>Computer security researcher / red team</h3>
-
-
-
 <div align="center">
-computer security researcher / red team
+<h3>Computer security researcher / red team</h3>
 </div>
 
 <br>
